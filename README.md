@@ -1,6 +1,6 @@
 # compositiontodaypractice
 
-A new Flutter project.
+This iteration is the web browser viewer
 
 ## Getting Started
 
